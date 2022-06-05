@@ -1,8 +1,8 @@
-<h1 align="center">Hi 👽, I'm Josue Garza</h1>
+<h1 align="center">Hi 👽, I'm Juanjo Dominguez</h1>
 
 ### 🤠 I’m currently learning: T-SQL, Tailwind CSS, AlpineJS, JQuery, Mongodb, Express, Angular 6 y Nodejs
 
-### 👀 I’m interested in: Web development, Data science and Cybersecurity
+### 👀 I’m interested in: Web development, and Cybersecurity
 
 ### 📣 Languages: Spanish & English  
 
@@ -20,30 +20,24 @@
 - <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> PHP 
 
 ## 🚀 Certificates & Courses
-- [Scrum Fundamentals Certified (SFC)](https://c46e136a583f7e334124-ac22991740ab4ff17e21daf2ed577041.ssl.cf1.rackcdn.com/Certificate/ScrumFundamentalsCertified-JosueIsraelGarza-914236.pdf)<br>
- - [CCNA: Introduction to Networks (ITN) (Cisco)](https://www.credly.com/badges/985cc9d4-b93b-4d70-96ac-9a9e61c54b2b/public_url) <br>
- - [Database Fundamentals Course (Platzi)](https://platzi.com/p/josuegarza42/curso/1566-bd/diploma/detalle/) <br>
- - [Git and GitHub Professional Course (Platzi)](https://platzi.com/p/josuegarza42/curso/1557-git-github/diploma/detalle/)<br>
- - <h3> Blockchain y Cripto </h3> 
-  - [Digital Economy: Bitcoin y Cripto (Platzi)](https://platzi.com/p/josuegarza42/curso/2452-economia-digital/diploma/detalle/)<br>
-  - [NFT Creation Course (Platzi)](https://platzi.com/p/josuegarza42/curso/2377-nfts/diploma/detalle/)<br>
-  
- 
+[//]: <> (This is also a comment.)  [Scrum Fundamentals Certified (SFC)](https://c46e136a583f7e334124-ac22991740ab4ff17e21daf2ed577041.ssl.cf1.rackcdn.com/Certificate/ScrumFundamentalsCertified-JosueIsraelGarza-914236.pdf)<br>
+
+
+
 ## &#x1f4c8; My GitHub Stats
 
 
-<a href="https://github.com/josuegarza42/josuegarza42">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=josuegarza42&title_color=cb6ce6&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21"/>
+<a href="https://github.com/juanjodmz/juanjodmz">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juanjodmz&title_color=cb6ce6&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21"/>
 </a>
 
-<a href="https://github.com/josuegarza42/josuegarza42">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=josuegarza42&show_icons=true&line_height=27&count_private=true&title_color=cb6ce6&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="josuegarza42's GitHub Stats" />
+<a href="https://github.com/juanjodmz/juanjodmz">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=juanjodmz&show_icons=true&line_height=27&count_private=true&title_color=cb6ce6&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="juanjodmz's GitHub Stats" />
 </a>
 
 <!--- [![trophy](https://github-profile-trophy.vercel.app/?username=josuegarza42&theme=gruvbox&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy) -->
 
 ### 🤝🏻 &nbsp;Connect with Me
-- <a href="https://github.com/Devsthink" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="devsthink" height="30" width="40" /> Devsthink </a>
-- <a href="https://twitter.com/josuegarza42" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="josuegarza42" height="30" width="40" /> josuegarza42 </a>
+- <a href="https://www.instagram.com/juanjografo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="juanjografo" height="30" width="40" /> juanjografo </a>
  
- ![GitHub Views](https://komarev.com/ghpvc/?username=josuegarza42&color=9046cf)
+ ![GitHub Views](https://komarev.com/ghpvc/?username=juanjodmz&color=9046cf)
