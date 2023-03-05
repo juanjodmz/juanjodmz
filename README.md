@@ -37,11 +37,8 @@
 </a>
 
 <a href="https://github.com/juanjodmz/juanjodmz">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=juanjodmz&show_icons=true&line_height=27&count_private=true&title_color=cb6ce6&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="juanjodmz's GitHub Stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=juanjodmz&show_icons=true&line_height=27&title_color=cb6ce6&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&hide=contribs,issues,prs" alt="juanjodmz's GitHub Stats" />
 </a>
-
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=juanjodmz)](https://github.com/juanjodmz/github-readme-stats)
 
 <!--- [![trophy](https://github-profile-trophy.vercel.app/?username=juanjodmz&theme=gruvbox&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy) -->
 
