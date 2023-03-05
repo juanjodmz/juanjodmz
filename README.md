@@ -15,16 +15,16 @@
 - <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> Bootstrap </a>   <br>
 - <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> PHP </a>  
 - <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://webimages.mongodb.com/_com_assets/cms/kuyjf3vea2hg34taa-horizontal_default_slate_blue.svg?auto=format%252Ccompress" alt="mongodb" width="40" height="40"/> MongoDB </a>  <br>
-- <a href="https://es.reactjs.org/" target="_blank" rel="noreferrer"> <img src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9Ii0xMS41IC0xMC4yMzE3NCAyMyAyMC40NjM0OCI+CiAgPHRpdGxlPlJlYWN0IExvZ288L3RpdGxlPgogIDxjaXJjbGUgY3g9IjAiIGN5PSIwIiByPSIyLjA1IiBmaWxsPSIjNjFkYWZiIi8+CiAgPGcgc3Ryb2tlPSIjNjFkYWZiIiBzdHJva2Utd2lkdGg9IjEiIGZpbGw9Im5vbmUiPgogICAgPGVsbGlwc2Ugcng9IjExIiByeT0iNC4yIi8+CiAgICA8ZWxsaXBzZSByeD0iMTEiIHJ5PSI0LjIiIHRyYW5zZm9ybT0icm90YXRlKDYwKSIvPgogICAgPGVsbGlwc2Ugcng9IjExIiByeT0iNC4yIiB0cmFuc2Zvcm09InJvdGF0ZSgxMjApIi8+CiAgPC9nPgo8L3N2Zz4K" alt="laravel" width="40" height="40"/> React </a> <br>
-- <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="flutter" width="40" height="40"/> React Native </a>
-- <a href="https://nodejs.org/es/" target="_blank" rel="noreferrer"> <img src="https://nodejs.org/static/images/logo.svg" alt="flutter" width="40" height="40"/> Node JS </a>
-- <a href="https://expressjs.com/es/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="flutter" width="40" height="40"/> Express </a>
+- <a href="https://es.reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://w7.pngwing.com/pngs/403/269/png-transparent-react-react-native-logos-brands-in-colors-icon-thumbnail.png" alt="React" width="40" height="40"/> React </a> <br>
+- <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="ReactNative" width="40" height="40"/> React Native </a>
+- <a href="https://nodejs.org/es/" target="_blank" rel="noreferrer"> <img src="https://nodejs.org/static/images/logo.svg" alt="NodeJS" width="40" height="40"/> Node JS </a>
+- <a href="https://expressjs.com/es/" target="_blank" rel="noreferrer"> <img src="https://nodejs.org/static/images/logo.svg" alt="Express" width="40" height="40"/> Express </a>
 - <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> C </a>  
 - <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> Figma </a> <br>
 - <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original-wordmark.svg" alt="mysql" width="40" height="40"/> Git </a>  <br>
 
 
-## 🚀 work Experience
+## 🚀 Work Experience
 - Web and Mobile Developer - Instituto Potosino de Investigación Científica y Tecnológica - IPICYT | November 2022 - present
 - Web Developer - Devsthink | June 2022 - present
 - Web Developer and Multimedia Creator - Mercada MX | December 2020 - August 2022
@@ -39,6 +39,9 @@
 <a href="https://github.com/juanjodmz/juanjodmz">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=juanjodmz&show_icons=true&line_height=27&count_private=true&title_color=cb6ce6&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="juanjodmz's GitHub Stats" />
 </a>
+
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=juanjodmz)](https://github.com/juanjodmz/github-readme-stats)
 
 <!--- [![trophy](https://github-profile-trophy.vercel.app/?username=juanjodmz&theme=gruvbox&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy) -->
 
