@@ -29,18 +29,6 @@
 - Web Developer - Devsthink | June 2022 - present
 - Web Developer and Multimedia Creator - Mercada MX | December 2020 - August 2022
  
-## &#x1f4c8; My GitHub Stats
-
-
-<a href="https://github.com/juanjodmz/juanjodmz">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juanjodmz&langs_count=8&layout=compact&title_color=cb6ce6&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21"/>
-</a>
-
-
-<a href="https://github.com/juanjodmz/juanjodmz">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=juanjodmz&count_private=true&show_icons=true&line_height=27&title_color=cb6ce6&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="juanjodmz's GitHub Stats" />
-</a>
-
 
 
 ### 🤝🏻 &nbsp;Connect with Me
