@@ -36,11 +36,14 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juanjodmz&title_color=cb6ce6&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21"/>
 </a>
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=juanjodmz)](https://github.com/juanjodmz/github-readme-stats)
+
+
 <a href="https://github.com/juanjodmz/juanjodmz">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=juanjodmz&show_icons=true&line_height=27&title_color=cb6ce6&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&hide=contribs,issues,prs" alt="juanjodmz's GitHub Stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=juanjodmz&count_private=true&show_icons=true&line_height=27&title_color=cb6ce6&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&hide=contribs,issues,prs" alt="juanjodmz's GitHub Stats" />
 </a>
 
-<!--- [![trophy](https://github-profile-trophy.vercel.app/?username=juanjodmz&theme=gruvbox&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy) -->
+
 
 ### 🤝🏻 &nbsp;Connect with Me
 - <a href="https://www.linkedin.com/in/juanjo-dominguezp/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="josue-garza" height="30" width="40" /> Juanjo Domínguez </a>
