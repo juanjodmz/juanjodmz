@@ -33,10 +33,8 @@
 
 
 <a href="https://github.com/juanjodmz/juanjodmz">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juanjodmz&title_color=cb6ce6&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juanjodmz&langs_count=8&layout=compact&title_color=cb6ce6&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21"/>
 </a>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=juanjodmz)](https://github.com/juanjodmz/github-readme-stats)
 
 
 <a href="https://github.com/juanjodmz/juanjodmz">
